@@ -30,7 +30,7 @@ This project demonstrates the use of **Support Vector Machines (SVM)** with both
 ## ⚡ Getting Started
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/AryanDayalani/svm-nonlinear-demo.git
+git clone  https://github.com/AryanDayalani/svm-nonlinear-demo.git
 cd svm-nonlinear-demo
 ```
 
@@ -58,4 +58,8 @@ pip install numpy matplotlib scikit-learn
 
 ## 🤝 Contributing
 Pull requests are welcome! For major changes, please open an issue first to discuss what you would like to change.
+
+## 🧑‍💻 Author
+- Aryan Naresh Dayalani
+- Contact : aryandayalani@gmail.com
 

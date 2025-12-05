@@ -1,6 +1,8 @@
 package Day3;
 // This is Day 3 of the GCR DSA problems homework. Set matrix to zeroes. Optimized approach - Space Complexity O(1)
 
+// Naive approach uses extra space and more runs.
+
 class MatrixZeroSetter {
     public void setZeroes(int[][] matrix) {
         int rows = matrix.length;
